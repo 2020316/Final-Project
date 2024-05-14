@@ -55,9 +55,7 @@ This project aims to develop an interactive health and fitness prediction system
 
 ## Instructions for Running the Program:
 1. Clone the repository to your local machine.
-2. Install the required dependencies (`pip install -r requirements.txt`).
-3. Run the Python script (`python main.py`) to launch the interactive prediction system.
-4. Follow the on-screen instructions to input data and obtain predictions.
+2. Follow the on-screen instructions to input data and obtain predictions.
 
 ## Conclusion:
 The Interactive Health and Fitness Prediction System provides users with valuable insights and recommendations to support their fitness journey. By leveraging machine learning techniques, the system delivers personalized predictions tailored to individual needs, empowering users to make informed decisions for a healthier lifestyle.
